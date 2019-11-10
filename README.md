@@ -8,6 +8,16 @@
 
 ## Bachelor 2
 
+### NodeJS
+
+### Python
+
+### Java
+
+### Android
+
+### UX Design
+
 ## Bachelor 1
 
 ### HTML-CSS
