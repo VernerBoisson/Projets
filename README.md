@@ -6,6 +6,16 @@
 
 ### NoSQL
 
+[`Répertoire NoSQL`](https://github.com/VernerBoisson/B3_NoSQL)
+
+#### Redis
+
+- TD [`Redis`](https://github.com/VernerBoisson/B3_NoSQL/tree/master/redis)
+
+#### MongoDB
+
+- Exercices [`Mongo DB`](https://github.com/VernerBoisson/B3_NoSQL/tree/master/mongo)
+
 ## Bachelor 2
 
 ## Bachelor 1
