@@ -8,16 +8,6 @@
 
 ## Bachelor 2
 
-### NodeJS
-
-### Python
-
-### Java
-
-### Android
-
-### UX Design
-
 ## Bachelor 1
 
 ### HTML-CSS
@@ -29,11 +19,3 @@
 ### Javascript
 
 - Evaluation [`formulaire dynamique`](https://github.com/VernerBoisson/B1_Javascript/tree/master/formulaire)
-
-### POO
-
-### Java
-
-### C#
-
-### Ergonomie
