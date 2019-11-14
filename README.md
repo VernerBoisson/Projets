@@ -18,6 +18,10 @@
 
 ## Bachelor 2
 
+### NodeJS
+- TP [`Isaac`]()
+- TP [`Todo list`]()
+
 ## Bachelor 1
 
 ### HTML-CSS
@@ -29,3 +33,4 @@
 ### Javascript
 
 - Evaluation [`formulaire dynamique`](https://github.com/VernerBoisson/B1_Javascript/tree/master/formulaire)
+- TP [`casse brique`](https://github.com/VernerBoisson/B1_Javascript/tree/master/casse-brique)
