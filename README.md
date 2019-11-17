@@ -27,6 +27,15 @@
 
 ## Bachelor 2
 
+### Scripting
+
+[`Répertoire Scripting`](https://github.com/VernerBoisson/B2_Scripting)
+
+#### Bash
+
+#### Python
+- [`TP 2 - Python`](https://github.com/VernerBoisson/B2_Scripting/tree/master/python)
+
 ### IOT (C++)
 
 - [`Plante connectée`](https://github.com/VernerBoisson/B2_IOT)
