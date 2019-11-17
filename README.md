@@ -27,6 +27,10 @@
 
 ## Bachelor 2
 
+### IOT (C++)
+
+- [`Plante connectée`](https://github.com/VernerBoisson/B2_IOT)
+
 ### NodeJS
 - [`TP Isaac`](https://github.com/VernerBoisson/B2_NodeJS/tree/master/tp-isaac)
 - [`TP Todo list`](https://github.com/VernerBoisson/B2_NodeJS/tree/master/tp-todolist)
