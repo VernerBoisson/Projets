@@ -46,7 +46,7 @@
 
 ## Bachelor 1
 
-### C#
+### C#
 
 - [`TP Twitter`](https://github.com/VernerBoisson/B1_CSharp)
 
