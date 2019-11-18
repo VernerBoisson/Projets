@@ -46,6 +46,10 @@
 
 ## Bachelor 1
 
+### C#
+
+- [`TP Twitter`](https://github.com/VernerBoisson/B1_CSharp)
+
 ### HTML-CSS
 
 - [`Evaluation mailing made`](https://github.com/VernerBoisson/B1_HTML_CSS/tree/master/mailing_made)
