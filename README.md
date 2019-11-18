@@ -4,7 +4,7 @@
 
 - [`linkedin`](www.linkedin.com/in/verner-boisson-9645a0188)
 
-## Platformes
+## Plateformes
 
 - [`CodeinGame`](https://www.codingame.com/profile/00511689b9a9a1e8eedbdf3194502d095462733) 
 - [`Root me`](https://www.root-me.org/verner?inc=info&lang=fr)
