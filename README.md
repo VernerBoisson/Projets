@@ -13,6 +13,14 @@
 
 ### Admin BDD
 
+- [`TP 1 - Requêtes de base de SQL`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp1)
+- [`TP 2 - Requête de base SQL - Partie 2`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp2)
+- [`TP 3 - Requête de base SQL - Partie 3`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp3)
+- [`TP 4 - Mettre en place une stratégie de backups`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp4)
+- [`TP 6 - Mise en place d'un serveur de replication`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp6)
+- [`TP 8 - Monitoring avec Prometheus`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp8)
+- [`TP 9 - Créer des dashboard avec Grafana`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp9)
+
 ### NoSQL
 
 [`Répertoire NoSQL`](https://github.com/VernerBoisson/B3_NoSQL)
