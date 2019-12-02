@@ -32,6 +32,7 @@
 #### MongoDB
 
 - [`Exercices Mongo DB`](https://github.com/VernerBoisson/B3_NoSQL/tree/master/mongo)
+- [`TD Mongo DB`](https://github.com/VernerBoisson/B3_NoSQL/tree/master/td-mongo)
 
 ## Bachelor 2
 
