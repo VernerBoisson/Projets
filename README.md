@@ -77,3 +77,8 @@
 
 - [`Evaluation formulaire dynamique`](https://github.com/VernerBoisson/B1_Javascript/tree/master/formulaire)
 - [`TP casse brique`](https://github.com/VernerBoisson/B1_Javascript/tree/master/casse-brique)
+
+## Palmarès
+
+### BattleDev
+- Novembre 2019 : 1877 / 5513
