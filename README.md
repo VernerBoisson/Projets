@@ -8,8 +8,14 @@
 
 - [`CodeinGame`](https://www.codingame.com/profile/00511689b9a9a1e8eedbdf3194502d095462733) 
 - [`Root me`](https://www.root-me.org/verner?inc=info&lang=fr)
+- [`Kaggle`](https://www.kaggle.com/tuankirie)
 
 ## Bachelor 3
+
+### Machine Learning
+
+### Node JS
+  - [`TP Dart`](https://github.com/VernerBoisson/B3_NodeJS/tree/master/tp_dart)
 
 ### Java
 
@@ -26,6 +32,7 @@
 - [`TP 7 - Mise en place d'un cluster Galera`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp7)
 - [`TP 8 - Monitoring avec Prometheus`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp8)
 - [`TP 9 - Créer des dashboard avec Grafana`](https://github.com/VernerBoisson/B3_DBA/tree/master/tp9)
+- [`TP 10 - Envoyer une alerte `](https://github.com/VernerBoisson/B3_DBA/tree/master/tp10)
 
 ### NoSQL
 
