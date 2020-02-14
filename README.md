@@ -93,7 +93,7 @@
 ## Palmarès
 
 ### CTF Cybersécurité
-- 2019 : Participation Mars@Hack
+- Mars 2019 : Participation Mars@Hack
 
 ### BattleDev
 - Novembre 2019 : 1877 / 5513
