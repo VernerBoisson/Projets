@@ -7,7 +7,7 @@
 ## Plateformes
 
 - [`CodeinGame`](https://www.codingame.com/profile/00511689b9a9a1e8eedbdf3194502d095462733) 
-- [`Root me`](https://www.root-me.org/verner?inc=info&lang=fr)
+- [`Rootme`](https://www.root-me.org/verner?inc=info&lang=fr)
 - [`Kaggle`](https://www.kaggle.com/tuankirie)
 
 ## Bachelor 3
@@ -50,6 +50,8 @@
 
 ## Bachelor 2
 
+### Java
+
 ### Scripting
 
 [`Répertoire Scripting`](https://github.com/VernerBoisson/B2_Scripting)
@@ -75,6 +77,8 @@
 
 - [`TP Twitter`](https://github.com/VernerBoisson/B1_CSharp)
 
+### Java
+
 ### HTML-CSS
 
 - [`Evaluation mailing made`](https://github.com/VernerBoisson/B1_HTML_CSS/tree/master/mailing_made)
@@ -87,6 +91,9 @@
 - [`TP casse brique`](https://github.com/VernerBoisson/B1_Javascript/tree/master/casse-brique)
 
 ## Palmarès
+
+### CTF Cybersécurité
+- 2019 : Participation Mars@Hack
 
 ### BattleDev
 - Novembre 2019 : 1877 / 5513
