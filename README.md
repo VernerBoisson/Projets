@@ -10,7 +10,19 @@
 - [`Rootme`](https://www.root-me.org/verner?inc=info&lang=fr)
 - [`Kaggle`](https://www.kaggle.com/tuankirie)
 
-## Bachelor 3
+## Mastère 1 Expert Intelligence Artificielle
+
+### Major - IA Cloud
+
+### Majeur - Data Science
+
+  - [`Projet - E-Commerce Brésilien`](https://github.com/VernerBoisson/datascience_e-commerce)
+
+### Elective - Machine learning
+
+
+
+## Bachelor 3 Développement Logiciel 
 
 ### Machine Learning
 
